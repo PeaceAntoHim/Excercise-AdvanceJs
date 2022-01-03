@@ -1,0 +1,23 @@
+   [
+        {
+            "nama": "Frans Sebastian",
+            "nrp": "0855454545154",
+            "email": "stefanusfranssebastian@gmail.com",
+            "jurusan": "Teknik informatika",
+            "idDosenWali": 1
+        },
+        {
+            "nama": "Ibnu Hajar",
+            "nrp": "0151554545154",
+            "email": "ibnu.hajar@kominfo.id",
+            "jurusan": "Computer Science",
+            "idDosenWali": 2
+        },
+        {
+            "nama": "Monkey D Luffy",
+            "nrp": "085545564454",
+            "email": "monkey.dluffy@kaizo.com",
+            "jurusan": "Teknik bajak laut",
+            "idDosenWali": 3
+        }
+    ]
